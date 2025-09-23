@@ -1,13 +1,13 @@
 ---
 title: "Incomincia la stagione: Prima giornata"
 excerpt: "Dopo un'asta ricca di colpi di scena, mani bucate e lamenti vari la prima giornata del Fanta ci regala tante emozioni. Capitolo #1: si (ri)comincia! "
-coverImage: "/assets/blog/blog_covers/prima_giornata.jpg"
+coverImage: "/assets/blog/blog_covers/prima_giornata.jpeg"
 date: "2025-09-17T05:35:07.322Z"
 author:
   name: Mandrake
-  picture: "/assets/blog/authors/mandrake.jpg"
+  picture: "/assets/blog/authors/mandrake.jpeg"
 ogImage:
-  url: "/assets/blog/blog_covers/prima_giornata.jpg"
+  url: "/assets/blog/blog_covers/prima_giornata.jpeg"
 ---
 
 Anche quest’anno ricomincia la giornata, e già non manca di sorprese e belle partite.
