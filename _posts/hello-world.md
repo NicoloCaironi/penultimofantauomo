@@ -1,11 +1,11 @@
 ---
 title: "Incomincia la stagione: Prima giornata"
 excerpt: "Dopo un'asta ricca di colpi di scena, mani bucate e lamenti vari la prima giornata del Fanta ci regala tante emozioni. Capitolo #1: si (ri)comincia! "
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/blog_covers/prima_giornata.jpg"
 date: "2025-09-17T05:35:07.322Z"
 author:
   name: Mandrake
-  picture: "/assets/blog/authors/mandrake.png"
+  picture: "/assets/blog/authors/mandrake.jpg"
 ogImage:
   url: "/assets/blog/blog_covers/prima_giornata.jpg"
 ---
