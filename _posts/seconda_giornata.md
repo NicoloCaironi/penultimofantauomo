@@ -19,10 +19,10 @@ Giornata molto movimentata sugli spalti quella tra ***Pizzeria Urlo*** e ***Mand
 Nonostante la Penultima posizione è quella che la nostra redazione si augura (dato il nome), non è quella voluta dai tifosi, che sugli spalti chiamavano a gran voce un solo nome, quello dell’ex Madrakatoso *Pellegrini*, ma che per arroganza e superbia dell'allenatore non è stato neanche convocato. E pensare che è stato pagato 6 milioni.
 ***Mandrake*** esulta e gioisce ai gol dell’inaspettato gallo, che due volte ha cantato ma solo una volta l’allenatore ha rinnegato. Ritrovato a giocare in 10 patisce fino all’ultimo una possibile rimonta avversaria che però, per sua fortuna, non arriva.  \
 Centrocampo compatto e stabile non crea preoccupazioni all’allenatore che intanto si gode la prima per *Ahanor*, classe 2008, che la prossima stagione potrebbe venire riconfermato se continua così. \
-\
+
 
 Peggiore in campo: (non c’è da stupirsi) __Koopmeiners__. \
-Migliore in campo: __Belotti__ \
+Migliore in campo: __Belotti__ 
 
 
 ### ExPat Bavaria 3 - 1 Cenktus
