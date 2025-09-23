@@ -9,7 +9,8 @@ export default function Index() {
 
   const heroPost = allPosts[allPosts.length - 1];
 
-  const morePosts = allPosts.slice(-1);
+  // show all but the hero post
+  const morePosts = allPosts.slice(0, allPosts.length - 1);
 
   return (
     <main>
