@@ -10,8 +10,8 @@ ogImage:
   url: "/assets/blog/blog_covers/Pagellone_2526.png"
 ---
 
-Ogni bella storia è un viaggio. Ancora non sappiamo se questo porterà a una meta soddisfacente, non si conoscono gli ostacoli che ci saranno lungo il cammino, né se, chissà, vincerà Mario Urlo, però una cosa è certa: ogni viaggio comincia con un'idea. E oggi discerneremo e valuteremo le idee che hanno messo in moto i fantallenatori della lega Andre Chiurco.
-Premessa doverosa. Le valutazioni espresse tengono di conto delle prime due giornate di campionato già giocate. Perché nessuno degli allenatori è mollo, e ciascuno deve già prendersi le proprie responsabilità per i capolavori, la monnezza o entrambi che hanno costruito nelle oltre sei ore di mercato andato in scena al crivex hotel (gira voce che Pedullà non abbia ancora chiuso le su porte).
+Ogni bella storia è un viaggio. Ancora non sappiamo se questo porterà a una meta soddisfacente, non si conoscono gli ostacoli che ci saranno lungo il cammino, né se, chissà, vincerà ***Mario Urlo***, però una cosa è certa: ogni viaggio comincia con un'idea. E oggi discerneremo e valuteremo le idee che hanno messo in moto i fantallenatori della lega Andre Chiurco.\
+Premessa doverosa. Le valutazioni espresse tengono di conto delle prime due giornate di campionato già giocate. Perché nessuno degli allenatori è mollo, e ciascuno deve già prendersi le proprie responsabilità per il capolavoro, la monnezza o entrambi che hanno costruito nelle oltre sei ore di mercato andato in scena al *Crivex Hotel* (gira voce che Pedullà non abbia ancora chiuso le sue porte).
 
 
 ### A.C. URICAZZI 
