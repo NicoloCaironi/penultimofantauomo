@@ -1,13 +1,13 @@
 ---
 title: "IL PAGELLONE DELL'ASTA DEL FANTACALCIO DI ANDRE CHIURCO"
 excerpt: "Gionborno ragazzi! "
-coverImage: "/assets/blog/blog_covers/Pagellone_2526.jpeg"
+coverImage: "/assets/blog/blog_covers/Pagellone_2526.png"
 date: "2025-09-25T13:24:07.322Z"
 author:
   name: Sick
-  picture: "/assets/blog/authors/Sick.jpgg"
+  picture: "/assets/blog/authors/Sick.jpg"
 ogImage:
-  url: "/assets/blog/blog_covers/Pagellone_2526.jpeg"
+  url: "/assets/blog/blog_covers/Pagellone_2526.png"
 ---
 
 Ogni bella storia è un viaggio. Ancora non sappiamo se questo porterà a una meta soddisfacente, non si conoscono gli ostacoli che ci saranno lungo il cammino, né se, chissà, vincerà Mario Urlo, però una cosa è certa: ogni viaggio comincia con un'idea. E oggi discerneremo e valuteremo le idee che hanno messo in moto i fantallenatori della lega Andre Chiurco.
