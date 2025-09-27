@@ -33,7 +33,7 @@ export default async function Post(props: Params) {
             author={post.author}
           />
           <PostBody content={content} />
-          
+          {post.video ? <PostVideo video={post.video} /> : null}
         </article>
       </Container>
     </main>
