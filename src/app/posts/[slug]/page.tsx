@@ -8,6 +8,7 @@ import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import { PostVideo } from "@/app/_components/post-video";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -17,7 +18,13 @@ export default async function Post(props: Params) {
     return notFound();
   }
 
-  const content = await markdownToHtml(post.content || "");
+  var content = await markdownToHtml(post.content || "");
+  const video = post.video || null;
+  if (video) {
+    content = `<video controls width="600">
+    <source src="${video}" type="video/mp4" />
+  </video>` + content;
+  }
 
   return (
     <main>
@@ -32,6 +39,7 @@ export default async function Post(props: Params) {
             author={post.author}
           />
           <PostBody content={content} />
+          <PostVideo video={post.video} />
         </article>
       </Container>
     </main>

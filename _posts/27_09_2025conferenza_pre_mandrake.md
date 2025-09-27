@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/mandrake.jpeg"
 ogImage:
   url: "/assets/blog/blog_covers/prima_giornata.jpeg"
+video: "/assets/blog/video/IMG_8876.mp4"
 ---
 
 Anche quest’anno ricomincia la giornata, e già non manca di sorprese e belle partite.
@@ -60,7 +61,3 @@ Inoriac da parte sua ha creato una squadra solida e consistente, ma non basta pe
 I tifosi per il momento non sembrano scontenti, è passata una sola partita, ma già qualcuno ha lanciato l'hashtag #InoriacOut.
 
 Migliore in campo Zalewski, peggiore Baschirotto.
-
-<video controls width="600">
-  <source src="/assets/blog/video/IMG_8876.mp4" type="video/mp4" />
-</video>
