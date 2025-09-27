@@ -4,8 +4,8 @@ excerpt: "Non ci siamo ancora abituati. Ripetiamolo ancora una volta: Bentornato
 coverImage: "/assets/blog/blog_covers/seconda_giornata.jpeg"
 date: "2025-09-17T05:35:07.322Z"
 author:
-  name: Mandrake
-  picture: "/assets/blog/authors/mandrake.jpeg"
+  name: Zioperone
+  picture: "/assets/blog/authors/zioperone.jpg"
 ogImage:
   url: "/assets/blog/blog_covers/seconda_giornata.jpeg"
 ---
