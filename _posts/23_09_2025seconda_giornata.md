@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/zioperone.jpg"
 ogImage:
   url: "/assets/blog/blog_covers/seconda_giornata.jpeg"
+video: ""
 ---
 
 Ogni giornata regala emozioni nuove a tutti. Bè quasi tutti, c'è chi ha ancora 0 punti.

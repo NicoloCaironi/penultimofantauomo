@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/zioperone.jpg"
 ogImage:
   url: "/assets/blog/blog_covers/prima_giornata.jpeg"
+video: ""
 ---
 
 Anche quest’anno ricomincia la giornata, e già non manca di sorprese e belle partite.
