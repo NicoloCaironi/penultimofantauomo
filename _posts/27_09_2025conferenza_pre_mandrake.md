@@ -61,9 +61,6 @@ I tifosi per il momento non sembrano scontenti, è passata una sola partita, ma 
 
 Migliore in campo Zalewski, peggiore Baschirotto.
 
-
-
 <video controls width="600">
   <source src="/assets/blog/video/IMG_8876.mp4" type="video/mp4" />
-  Il tuo browser non supporta il tag video.
 </video>
