@@ -18,13 +18,7 @@ export default async function Post(props: Params) {
     return notFound();
   }
 
-  var content = await markdownToHtml(post.content || "");
-  const video = post.video || null;
-  if (video) {
-    content = `<video controls width="600">
-    <source src="${video}" type="video/mp4" />
-  </video>` + content;
-  }
+  const content = await markdownToHtml(post.content || "");
 
   return (
     <main>
