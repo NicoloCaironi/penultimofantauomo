@@ -2,7 +2,7 @@
 title: "Conferenza pre giornata di Mandrake"
 excerpt: "Parla ai nostri microfoni l'allenatore della Mandrakata"
 coverImage: "/assets/blog/blog_covers/mandrake.jpeg"
-date: "2025-09-17T05:35:07.322Z"
+date: "2025-09-27T05:35:07.322Z"
 author:
   name: Zioperone
   picture: "/assets/blog/authors/zioperone.jpg"
