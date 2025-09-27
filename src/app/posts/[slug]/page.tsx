@@ -33,7 +33,9 @@ export default async function Post(props: Params) {
             author={post.author}
           />
           <PostBody content={content} />
-          <PostVideo video={post.video} />
+          <div className="flex justify-center my-6">
+            <PostVideo video={post.video} />
+          </div>
         </article>
       </Container>
     </main>
