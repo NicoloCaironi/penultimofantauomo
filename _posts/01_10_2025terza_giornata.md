@@ -55,7 +55,7 @@ Si ritrova in solitaria al primo posto ed è impossibile che non ci rimanga fino
 Se c'è da trovare una pecca a questa squadra quai perfetta è la porta, che per il momento non ha ancora mai fatto porta inviolata. \
 Un gran peccato lasciare il fenomeno 20enne *Pio Esposito* (è meglio di *Camarda*) in panchina anche se il gol avrebbe cambiato poco al risultato finale. 
 
-Migliore in campo: Capitan America *Pulisic*
+Migliore in campo: Capitan America *Pulisic* \
 Peggiore in campo: L'altro milanista *Estupinian*
 
 
