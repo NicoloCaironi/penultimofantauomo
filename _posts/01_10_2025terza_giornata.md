@@ -1,13 +1,13 @@
 ---
 title: "I soliti sconfitti"
 excerpt: "Due squadre ancora a 0 punti e una sola capolista."
-coverImage: "/assets/blog/blog_covers/terza_giornata.jpeg"
+coverImage: "/assets/blog/blog_covers/terza_giornata.jpg"
 date: "2025-10-01T05:35:07.322Z"
 author:
   name: Zioperone
   picture: "/assets/blog/authors/zioperone.jpg"
 ogImage:
-  url: "/assets/blog/blog_covers/terza_giornata.jpeg"
+  url: "/assets/blog/blog_covers/terza_giornata.jpg"
 video: ""
 ---
 
