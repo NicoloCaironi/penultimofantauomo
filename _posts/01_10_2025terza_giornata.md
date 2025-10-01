@@ -1,7 +1,7 @@
 ---
 title: "I soliti sconfitti"
 excerpt: "Due squadre ancora a 0 punti e una sola capolista."
-coverImage: "/assets/blog/blog_covers/seconda_giornata.jpeg"
+coverImage: "/assets/blog/blog_covers/terza_giornata.jpeg"
 date: "2025-10-01T05:35:07.322Z"
 author:
   name: Zioperone
@@ -11,32 +11,32 @@ ogImage:
 video: ""
 ---
 
-Ogni giornata regala emozioni nuove a tutti. Bè quasi tutti, c'è chi ha ancora 0 punti.
+Tanti e pochi gol. Le categorie nel calcio esistono.
 
 ### Cenktus 4 - 2 Pizzeria Urlo
 
 ***Cenktus*** dilaga e fa rimettere la testa a posto a ***Pizzeria Urlo***.
-Su quel ramo del lago di Como ogni partita porta bonus. Soprannominati i *Blue_Brothers*, dato che chi segna ha come colore della maglia tonalità di blue. \
+Su quel ramo del lago di Como ogni partita porta bonus. Soprannominati i *Blue_Brothers*, dato che chi segna ha come colore della maglia tonalità di blu. \
 I tifosi cantano e saltano così tanto che è crollano pezzi di muro da San Siro. \
-Non si trova in prima posizione ma stando ai punti fatti immeritatamente. ***Tom*** continua la sua striscia tattica, anche quest'anno crea una squadra solida e caparbia. Certo è facile vederlo vincere contro le piccole, vedremo se saprà cavarsela anche contro le big del campionato. \
+Non si trova in prima posizione ma stando ai punti fatti, immeritatamente. ***Tom*** continua la sua striscia tattica, anche quest'anno crea una squadra solida e caparbia. Certo è facile vederlo vincere contro le piccole, vedremo se saprà cavarsela anche contro le big del campionato. \
 ***Pizzeria Urlo*** abbaia, anzi urla, ma non morde. La squadra materasso degli ultimi 5 anni si riconferma tale. \
 Unica nota positiva è stato *Dovbyk* che è stato comprato a poco (2) e che questa giornata ha portato bonus. \
 Abbiamo incontrato il presidente in un bar a Milano, era ubriaco e si stava questionando su tutte le scelte di vita, tranne sull'acquisto di questa squadra. Lungimiranza? I tifosi, i pochi rimasti, sperano di si. \
-Aggiorniamo la pillola statistica: *Kean* 0 sufficenze su 3 partite. \
+Aggiorniamo la pillola statistica: *Kean* 0 sufficenze su 3 partite. 
 
-Migliore in campo: ***Tom** \
+Migliore in campo: ***Tom*** \
 Peggiore in campo: *Kean*
 
 
 ### Mandrakata 0 - 1 LukAsses
 
-Cosa c'è peggio di giocare in 10? Fare una conferenza pre giornata carichi della propria squadra, confermando e spiegando le scelte dei portieri e non capirci un cazzo di calcio e giocare comunque in 10.
+Cosa c'è peggio di giocare in 10? Fare una conferenza pre giornata carichi della propria squadra, confermando e spiegando le scelte dei portieri e non capirci un cazzo di calcio e giocare comunque in 10. \
 Figura magra per ***Mandrake*** che anche questa giornata sbaglia portiere, e si ritrova a pagarla cara. \
 La fiducia data a *Belotti* è stata ripagata con pessimo brodo, nonostante la vecchia gallina, in quanto i panchinari per mostrarsi pronti segnano più dei titolari. \
 La società ha assunto, per ***Mandrakata*** , un data analyst per poter migliorare le scelte tattiche di formazione. \
 E' improponibile per l'elevatezza del campionato, trovarsi così impreparati.
 ***AllegriMaNonTroppo*** si ritrova contro 11, anzi 10, giocatori che non sanno come stare in campo, o meglio, sono peggio a posizionarsi dei suoi giocatori. \
-Il centrocampo porta malus e bonus, che però sommati danno un rendimento leggermente positivo. Quanto basta all'allenatore per portarsi a casa la vittoria.\
+Il centrocampo porta malus e bonus, che però sommati danno un rendimento leggermente positivo. Quanto basta all'allenatore per portarsi a casa la vittoria.
 
 Migliore in campo: *Orsonaldo*\
 Peggiore in campo: **Mandrake**
@@ -47,8 +47,8 @@ Peggiore in campo: **Mandrake**
 
 ***TeoKulo*** ha finito il culo? \
 Passa da 5 a 0 gol e due rossi. La redazione si è data due possibili motivazioni: 
-1. I giocatori mancano di mentalità giusta. Si esaltano quando l'avversario lo permette ma appena incontrano le prime difficoltà, saltano gli schemi e il gioco si fa brutto e macchinoso
-2. Dopo l'ultima vittoria il presidente ha fattoa la Berlusconi move, portando pulman carichi per i giocatori che hanno perso la testa.
+- I giocatori mancano di mentalità giusta. Si esaltano quando l'avversario lo permette ma appena incontrano le prime difficoltà, saltano gli schemi e il gioco si fa brutto e macchinoso
+- Dopo l'ultima vittoria il presidente ha fatto la Berlusconi move, portando pulman carichi per i giocatori che hanno perso la testa.
 Un gran peccato lasciare il fenomeno 17enne *Camarda* (è meglio di *Pio Esposito*) in panchina anche se il gol avrebbe cambiato poco al risultato finale. \
 Per ***Fra*** c'è chi parla già di scudetto assicurato. \
 Si ritrova in solitaria al primo posto ed è impossibile che non ci rimanga fino alla fine dell'anno. \
@@ -82,6 +82,7 @@ Intanto si gode il suo pupillo, l'attaccante da 160 milioni, che ha segnato il p
 E se una delle due squadre della capitale della moda si trova in grande forma non si può dire lo stesso dell'altra, che deve affrontare anche l'infortunio di ***Crivex***. \
 Nonostante la storia che il club porta sulle spalle, 0 punti in 3 giornate e l'ultima posizione, sono difficili da mandar giù. \
 Nel nostro campionato non abbiamo mai visto nessuno arrivare sul podio dopo un inizio così poco soddisfacente. Chissà se ***Milaneese*** può rompere questa statistica.
+Chissà se riuscirà a portare a casa una vittoria prima che spengano definitivamente le luci a San Siro.
 
 Migliore in campo: Finalmente *Lautaro*
 Peggiore in campo: *Meret*
