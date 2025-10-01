@@ -47,13 +47,13 @@ Peggiore in campo: **Mandrake**
 
 ***TeoKulo*** ha finito il culo? \
 Passa da 5 a 0 gol e due rossi. La redazione si è data due possibili motivazioni: 
-- I giocatori mancano di mentalità giusta. Si esaltano quando l'avversario lo permette ma appena incontrano le prime difficoltà, saltano gli schemi e il gioco si fa brutto e macchinoso
-- Dopo l'ultima vittoria il presidente ha fatto la Berlusconi move, portando pulman carichi per i giocatori che hanno perso la testa.
+1 I giocatori mancano di mentalità giusta. Si esaltano quando l'avversario lo permette ma appena incontrano le prime difficoltà, saltano gli schemi e il gioco si fa brutto e macchinoso
+2 Dopo l'ultima vittoria il presidente ha fatto la Berlusconi move, portando pulman carichi per i giocatori che hanno perso la testa.
 Un gran peccato lasciare il fenomeno 17enne *Camarda* (è meglio di *Pio Esposito*) in panchina anche se il gol avrebbe cambiato poco al risultato finale. \
 Per ***Fra*** c'è chi parla già di scudetto assicurato. \
 Si ritrova in solitaria al primo posto ed è impossibile che non ci rimanga fino alla fine dell'anno. \
 Se c'è da trovare una pecca a questa squadra quai perfetta è la porta, che per il momento non ha ancora mai fatto porta inviolata. \
-Un gran peccato lasciare il fenomeno 20enne *Pio Esposito* (è meglio di *Camarda*) in panchina anche se il gol avrebbe cambiato poco al risultato finale. \
+Un gran peccato lasciare il fenomeno 20enne *Pio Esposito* (è meglio di *Camarda*) in panchina anche se il gol avrebbe cambiato poco al risultato finale. 
 
 Migliore in campo: Capitan America *Pulisic*
 Peggiore in campo: L'altro milanista *Estupinian*
@@ -61,15 +61,15 @@ Peggiore in campo: L'altro milanista *Estupinian*
 
 ### A.C. URICAZZI 4 - 1 SarryBall
 
-La pizza di ***A.C. URICAZZI*** è una piazza difficile. Prima ti fischia, poi ti ama. Prima ti osanna, poi ti abbandona. E ***Inoriac*** lo sa, e ci sguazza in questo continuo alternare di emozioni. Ci gode, le ricerca. Perchè il calcio è soprattutto una questione di cuore. I numeri, i tatticismi, le seghe mentali, li lasciamo ai filosofi del calcio. ***Inoriac*** vuole viverlo, vuole respirarlo. Vuole gioire e piangere con lui. \
+La piazza di ***A.C. URICAZZI*** è una piazza difficile. Prima ti fischia, poi ti ama. Prima ti osanna, poi ti abbandona. E ***Inoriac*** lo sa, e ci sguazza in questo continuo alternare di emozioni. Ci gode, le ricerca. Perchè il calcio è soprattutto una questione di cuore. I numeri, i tatticismi, le seghe mentali, li lasciamo ai filosofi del calcio. ***Inoriac*** vuole viverlo, vuole respirarlo. Vuole gioire e piangere con lui. \
 E mentre *Pellegrino* si esaltava l'allenatore si girava sugli spalti, per cercare quegli striscioni, quei leoni da tastiera che fino al giorno prima scrivevano *#InoriacOut*. E mentre non li trovava sorrideva. \
 In conferenza post partita ha affermato di essere dispiaciuto per i risultati. "Sono alla prima vittoria ma sono il secondo per punti. Sempre il solito complotto". \
 Chissà se questo bel gioco rimarrà costante o dalla prossima giornata torneremo sulle solite montagne russe. \
 ***Maurizio*** alla fine del primo tempo è stato avvistato in tabaccheria a fare rifornimento di sigarette. La squadra non sembra ingranare. E' ultimo per punti e tutti si stanno chiedendo come ha fatto a fare i suoi unici 3 punti. \
 L'attacco gira e non gira, ma non è supportato da nessun reparto. Staranno mica tutti aspettando la prima titolarità di *David*?
 
-Migliore in campo: *Pellegrino*
-Peggiore in campo* *Norton-Cuffy*
+Migliore in campo: *Pellegrino* \
+Peggiore in campo: *Norton-Cuffy*
 
 ### AC Riportino 3 - 0 Milaneese
 
