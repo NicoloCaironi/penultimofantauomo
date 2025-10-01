@@ -73,7 +73,7 @@ Peggiore in campo: *Norton-Cuffy*
 
 ### AC Riportino 3 - 0 Milaneese
 
-Il derby della Madonnina se lo porta a casa la squadra di Milano Sud.
+Il derby della Madonnina se lo porta a casa la squadra di Milano Sud. \
 ***Andrea Corradini** rasenta la perfezione con solo due insufficienze in campo. Si trova talvolta impicciato nel non sapere chi schierare data la forza dell'intera rosa. \
 Avere in porta il portiere più forte al mondo immaginiamo possa essere d'aiuto. \
 Sentiremo cosa ne pensa nell'esclusiva intervista che ha rilasciato ai nostri microfoni. \
@@ -84,5 +84,5 @@ Nonostante la storia che il club porta sulle spalle, 0 punti in 3 giornate e l'u
 Nel nostro campionato non abbiamo mai visto nessuno arrivare sul podio dopo un inizio così poco soddisfacente. Chissà se ***Milaneese*** può rompere questa statistica.
 Chissà se riuscirà a portare a casa una vittoria prima che spengano definitivamente le luci a San Siro.
 
-Migliore in campo: Finalmente *Lautaro*
+Migliore in campo: Finalmente *Lautaro*\
 Peggiore in campo: *Meret*
