@@ -2,7 +2,7 @@
 title: "La stagione segnata dal destino per fra è cominciata"
 excerpt: "Fantallenatori di terra, di mare, dell'aria. Ascoltate!"
 coverImage: "/assets/blog/blog_covers/Fra_1.jpg"
-date: "MMXXV-X-V T XIII:I:VI.322Z"
+date: "2025-10-05 T 13:37:06.322Z"
 author:
   name: Sick
   picture: "/assets/blog/authors/Sick.jpg"
