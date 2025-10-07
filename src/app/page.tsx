@@ -14,7 +14,7 @@ export default function Index() {
   // show all but the hero post
   const morePosts = allPosts.slice(0, allPosts.length - 1);
 
-  morePosts.sort((a, b) => a.date.localeCompare(b.date));
+  morePosts.sort((a, b) => b.date.localeCompare(a.date));
 
   return (
     <main>
