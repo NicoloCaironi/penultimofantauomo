@@ -52,7 +52,7 @@ I bonus arrivano da ogni reparto. ***AllegriMaNonTroppo*** rende ogni squadra av
 La squadra, che spesso in questo giornale è stata criticata per mancanza di attaccanti, sta rispondendo non solo con le vittorie grazie agli altri reparti, ma proprio con il reparto offensivo stesso. *Borrelli*, pagato a 1, si sblocca e può essere una notevole arma in più in mano all'allenatore. \
 ***Tom*** ci sta facendo girare la testa. La giornata prima vince e convince, quella dopo non sembra che pesci pigliare. \
 Abbiamo paura a esprimere giudizi su questa squadra (già troppi ne sono stati detti nel pagellone di fine asta). Vorremmo solo non scender mai da questa giostra, che ci fa piangere e godere allo stesso tempo. \
-Chissà cosa si prova a tifare questa squadra. Ma d'altronde "***Cenktus*** non si discute, si ama". \
+Chissà cosa si prova a tifare questa squadra. Ma d'altronde "***Cenktus*** non si discute, si ama". 
 
 Migliore in campo: ***AllegriMaNonTroppo*** \
 Peggiore in campo: *Gosens*
@@ -67,7 +67,7 @@ Dopo la prima partita giocata con un 4-3-3, ***SarryBall*** si è schierata in c
 Ma la stranezza più grande è l'ostinazione di giocare con tre (3) attaccanti. Le prestazioni di *David*, punta di diamante strapagato della società, sono in constante peggioramento. Non serve neanche aggiornare la statistica. \
 E se le prestazionid di ***SarryBall*** lasciano a desiderare, quelle di ***AC Riportino*** non sono meglio. O meglio, lo sono se si guarda esclusivamente al risultato, non al bel gioco. \
 Sicuramente il più sculato (strano), si ritrova con solo  9 gol fatti (tutte le altre squadre fino alla quinta posizione hanno segnato di più), ma sopratutto solo 3 gol subiti (come ***LukeAsses*** è vero, ma almeno lui segna). Certo affrontare ***SarryBall***, ***Milaneese*** e ***Pizzeria Urlo*** fa capire il perchè ***Andrea Corradini*** si ritrova a guidare la squadra in prima posizoine a pari punti. \
-Interessante sarà vederla affrontare squadre con più arsenale offensivo. Forse la prossima contro ***Mandrakata*** potrebbe portare la prima sconfitta. \
+Interessante sarà vederla affrontare squadre con più arsenale offensivo. Forse la prossima contro ***Mandrakata*** potrebbe portare la prima sconfitta. 
 
 Migliore in campo: *Martinez L.* \
 Peggiore in campo: *Gudmundsson*
@@ -81,7 +81,7 @@ L'allenatore non ha rilasciato commenti, è stato visto però tirare pugni a un 
 Ma se fosse ***Quaggelle FC*** la vera favorita di quest'anno? \
 Pochi giovani sconosciuti, molti giocatori conosciuti e rodati che danno stabilità e sicurezza in ogni reprarto. \
 Quattro gol sono di buon auspicio per la suqadra di ***TeoKulo***, che post partita ha festeggiato sotto il settore ospiti assieme a sua madre e suo padre, gli unici due tifosi che hanno avuto il coraggio di andare in casa di ***Pizzeria Urlo***. \
-Molto bene. \
+Molto bene. 
 
 Migliore in campo: *Zambo Anguissa* \
 Peggiore in campo: *Suzuki*
