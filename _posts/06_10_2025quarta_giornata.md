@@ -39,7 +39,7 @@ In bocca al lupo cucciolo. \
 ***Mandrakata*** viene sorretta e portata a spasso dal solito *Soulè*. \
 ***Mandrake*** si gode il risultato ma non è contento del percorso della sua squadra. Vuole di più. Esige di più. \
 Ha confermato nel ritiro durante la pausa nazionali per far affiatare di più i compagni e farli giocare meglio assieme. \
-Continua l'ottima prestazion di *Ahanor* che per la terza partita di fila prende 6.5, dimostrando molta qualità per il ragazzo classe 2008. \
+Continua l'ottima prestazion di *Ahanor* che per la terza partita di fila prende 6.5, dimostrando molta qualità per il ragazzo classe 2008. 
 
 Migliore in campo: *Soulè* \
 Peggiore in campo: *Zaniolo*
