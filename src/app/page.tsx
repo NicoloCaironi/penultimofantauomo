@@ -7,7 +7,7 @@ import { getAllPosts } from "@/lib/api";
 export default function Index() {
   const allPosts = getAllPosts();
 
-  allPosts.sort((a, b) => a.date.localeCompare(b.date));
+  //allPosts.sort((a, b) => a.date.localeCompare(b.date));
 
   const heroPost = allPosts[allPosts.length - 1];
 
