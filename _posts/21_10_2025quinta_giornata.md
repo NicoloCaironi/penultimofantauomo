@@ -12,8 +12,8 @@ video: ""
 ---
 
 005:
-0: i punti di ***Milaneese***
-0: i punti di ***Pizzeria Urlo***
+0: i punti di ***Milaneese*** \
+0: i punti di ***Pizzeria Urlo*** \
 5: le squadre che non riescono a segnare
 
 ### Cenktus 2 - 0 Milaneese
