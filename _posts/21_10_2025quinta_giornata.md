@@ -48,7 +48,7 @@ Peggiore in campo: *Svilar* (sad)
 
 ### ExPat Bavaria 3 - 0 SarryBall
 
-Ci eravao lasciati con una domanda l'ultima giornata. ***fra** è un sogno collettivo o la scorsa giornata è stata solo una piccola buca per le strade di Monaco? \
+Ci eravao lasciati con una domanda l'ultima giornata. ***fra*** è un sogno collettivo o la scorsa giornata è stata solo una piccola buca per le strade di Monaco? \
 Optiamo per la seconda. I 3 gol piovono dal giocatore più atteso, il più desiderato e esaltato. *Leao* punge due volte, e lo fa in maniera sontuosa riportando ***ExPat Bavaria*** la dove dovrebbe stare, a volare con le aquile e a osservare gli altri lottare per il terzo posto. \
 D'altronde basta mettere *Leali* e volare via. \
 ***Maurizio*** ha finito tutte le sigarette dei tabacchi limitrofi. Record di punti in negativo. E non vediamo come possa risollevarsi. \
