@@ -5,7 +5,7 @@ coverImage: "/assets/blog/blog_covers/se_questo_e_un_fantaallenatore.jpg"
 date: "2025-10-21T05:35:07.322Z"
 author:
   name: Olindo
-  picture: "/assets/blog/authors/olindo"
+  picture: "/assets/blog/authors/olindo.jpg"
 ogImage:
   url: "/assets/blog/blog_covers/se_questo_e_un_fantaallenatore.jpg"
 video: ""
