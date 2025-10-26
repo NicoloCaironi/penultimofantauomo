@@ -1,7 +1,7 @@
 ---
 title: "CHIEDO SCUSA A CRIVEX?!?!?! - ADESSO PARLO IO!!!"
 excerpt: "Commento a caldo di una giornata disastrosa"
-coverImage: "public/assets/blog/blog_covers/maxresdefault.jpg"
+coverImage: "/assets/blog/blog_covers/maxresdefault.jpg"
 date: "2025-10-27T00:09:06.322Z"
 author:
   name: Ro-Sick
