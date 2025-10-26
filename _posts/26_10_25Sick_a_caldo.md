@@ -19,4 +19,4 @@ Diccelo, ***Crivex***, hai bisogno di tutto questo per schiodarti dalla miseria 
 Abbi il coraggio di esporti pubblicamente. Abbi il coraggio di perdere, e di riconoscere che i tuoi giocatori fanno schifo. Ti divertiresti di più. E io risparmierei ancora sull'imbianchino.\
 Non ti chiedo scusa. Questa notte tu godi e io rosico. Ma porterò a galla quello che nascondi.
 
-(Ma come cazzo se fa')
+(Ma come cazzo se fa'...)
