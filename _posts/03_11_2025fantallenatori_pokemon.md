@@ -19,7 +19,7 @@ Il riferimento alla regione di provenienza della ***A.C. Uricazzi*** è evidente
 
 ### Andrea Corradini - Mewtwo
 ![Mewtwo](/assets/blog/TelChi/mewtwo.jpg)\
-È forte. E ha segnato sempre almeno due gol. E quando non l'ha fatto, ha subito due gol. Direi che non c'è paragone più azzeccato. Essendo primo per trofei vinti, è assimilabile a un Pokémon Leggendario. Gira voce che ***Andrea Corradini*** sia stato creato in laboratorio da una manipolazione genetica per diventare il fantallenatore perfetto, proprio come ***Mewtwo***. Il suo tipo Psico lo bone davanti a poche debolezze e molte resistenze. Può addirittura megaevolversi. Veramente forte.
+È forte. E ha segnato sempre almeno due gol. E quando non l'ha fatto, ha subito due gol. Direi che non c'è paragone più azzeccato. Essendo primo per trofei vinti, è assimilabile a un Pokémon Leggendario. Gira voce che ***Andrea Corradini*** sia stato creato in laboratorio da una manipolazione genetica per diventare il fantallenatore perfetto, proprio come ***Mewtwo***. Il suo tipo Psico lo pone davanti a poche debolezze e molte resistenze. Può addirittura megaevolversi. Veramente forte.
 
 ### Cekntus - Chansey
 ![Chansey](/assets/blog/TelChi/Chansey.jpg)\
@@ -47,7 +47,7 @@ Si commenta da solo.
 
 ### TeoKulo - Matiére in Leggende Pokémon ZA
 ![Matiere](/assets/blog/TelChi/Matiere.jpg)\
-Come fa a trovarsi lì proprio non si sa. È contornato da giocatori brutti, orribili, inutili, eppure la sua classifica non è male. La nuova ***Luminopoli* è orribile, eppure Matiére ha un non so che di perfetto e bellissimo che mi lascia interdetto. Una partenza col botto rovinata dai risultati successivi, risultato di una brutta gestione degli asset. Ma gli avversari non ne hanno approfittato ancora. Continua così, ***TeoKulo***.
+Come fa a trovarsi lì proprio non si sa. È contornato da giocatori brutti, orribili, inutili, eppure la sua classifica non è male. La nuova ***Luminopoli*** è orribile, eppure Matiére ha un non so che di perfetto e bellissimo che mi lascia interdetto. Una partenza col botto rovinata dai risultati successivi, risultato di una brutta gestione degli asset. Ma gli avversari non ne hanno approfittato ancora. Continua così, ***TeoKulo***.
 
 ### Maurizio - Magikarp
 ![Magikarp](/assets/blog/TelChi/magikarp.jpeg)\
