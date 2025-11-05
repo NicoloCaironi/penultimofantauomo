@@ -28,7 +28,7 @@ Ovviamente optiamo per la prima. \
 Migliore in campo: *Castro S.* \
 Peggiore in campo: *Sulemana K.*
 
-### Mandrakata 0 - 5 Quaggelle FC
+### Mandrakata 0 - 0 Quaggelle FC
 
 La rivoltella ***Mandrakata*** ha finito i colpi nel suo tamburo. Sparati tutti i proiettili la giornata precedente, si trova con un ultima munizione che ahimè viene affidata a *Morata*, che manca di molto poco il bersaglio, uno 0.5 potremmo dire. \
 Rimane solido il reparto difensivo, rimasto ormai unico vanto di questa squadra. \
