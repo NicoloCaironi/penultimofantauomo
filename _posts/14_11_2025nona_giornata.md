@@ -36,6 +36,7 @@ Arrivare zona podio per questa squadra rimane comunque un miraggio, e sono pront
 ***AllegriMaNonTroppo*** cosa è successo cucciolo? Hai capito che senza attaccanti non si può giocare? L'arbitro cattivo ti ha dato troppi gialli? SVEGLIA! \
 La discesa è iniziata. Sicuramente la ***LukAsses*** rimarrà terza almeno per un’altra giornata. Ma è questione di poche partite, e tornerà a dove merita di stare.
 
+
 Migliore in campo: *Maurizio* \
 Peggiore in campo: *David*
 
@@ -63,6 +64,7 @@ La mischia centrale è sempre più densa e ogni partita può essere quella decis
 Il quarto posto scricchiola sempre di più. Se la ***Mandrakata*** non corre ai ripari si rischia il tracollo. \
 L’allenatore dopo la partita si microfoni “È il momento di fare una Mandrakata. Una in stile Lukaku-Ibra”. Sempre molto enigmatico staremo a vedere l’evolversi della vicenda.
 
+
 Migliore in campo: ***Inoriac*** \
 Peggiore in campo: ***Mandrake***
 
@@ -77,6 +79,7 @@ Culo perché gli hanno segnato tutti quanti assieme. Però non vinci se non fai 
 Perché allora parliamo di culo? Perché i dati parlano chiaro. Questa squadra non dovrebbe stare lì. \
 Una valanga che si è generata all'inizio, quando è stato creato il calendario. La Dea bendata accompagna questo allenatore sin da lì. \
 Quindi che altro dire? Bentornato culo.
+
 
 Migliore in campo: *Culo* \
 Peggiore in campo: *Nessuno*
