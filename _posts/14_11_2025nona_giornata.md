@@ -14,7 +14,7 @@ video: ""
 C’è un nuovo sceriffo in città. \
 O forse c’è sempre stato. Bentornato Culo!
 
-### Quaggelle 0 - 0 Cenktusl
+### Quaggelle 0 - 0 Cenktus
 
 Serve avere 10 squadre in un campionato? \
 Se questi sono i risultati no. Due squadre che non stanno attraversando proprio un bel periodo. Due squadre che storicamente sono sempre state altalenanti, forse troppo. E quest’anno deve essere l’annata no. \
