@@ -1,8 +1,8 @@
 ---
-title: "La fortuna ci accompagna sempre"
-excerpt: "Si aggiorna la capolista. Si smuovono le retrovie”
+title: "E' sempre il culo a fare la differenza"
+excerpt: "Cambia la capolista e si intensifica la mischia fuori dal podio."
 coverImage: "/assets/blog/blog_covers/nona_giornata.jpg"
-date: "2025-11-14T05:35:07.322Z"
+date: "2025-11-15T05:35:07.322Z"
 author:
   name: Zioperone
   picture: "/assets/blog/authors/zioperone.jpg"
@@ -14,7 +14,7 @@ video: ""
 C’è un nuovo sceriffo in città. \
 O forse c’è sempre stato. Bentornato Culo!
 
-### Quaggelle 0 - 0 Cenktus
+### Quaggelle 0 - 0 Cenktusl
 
 Serve avere 10 squadre in un campionato? \
 Se questi sono i risultati no. Due squadre che non stanno attraversando proprio un bel periodo. Due squadre che storicamente sono sempre state altalenanti, forse troppo. E quest’anno deve essere l’annata no. \
@@ -22,6 +22,7 @@ Se questi sono i risultati no. Due squadre che non stanno attraversando proprio 
 La ***Quaggelle FC*** non vede il campo avversario, come nella famosa scena di Fantozzi. La ***Cenktus*** invece sceglie proprio di rimanere a casa. \
 Uno 0-0 che spiega molte cose di queste due squadre ma apre anche tanti interrogativi. \
 Che senso ha fare il campionato in 10? Non è meglio forse farlo in 8 ma avere squadre più competitive? ***TeoKulo*** e ***Tom*** si sono divisi il biscotto per evitare zona retrocessione? Sono amici? Ma soprattutto: chi vince il premio di migliore in campo?
+
 
 Migliore in campo: *Nessuno. * \
 Peggiore in campo: *Il giuoco del calcio. *
@@ -38,6 +39,7 @@ La discesa è iniziata. Sicuramente la ***LukAsses*** rimarrà terza almeno per 
 Migliore in campo: *Maurizio* \
 Peggiore in campo: *David*
 
+
 ### Pizzeria Urlo 0 - 1 Milanese
 
 La sfida delle ultime, eppure non la peggior partita di giornata. \
@@ -46,8 +48,10 @@ Un inesorabile e instancabile *Pellegrini* sembra poter ridare speranza alla squ
 La ***Milaneese*** fa un balzo in avanti, da record di salto in lungo e si ritrova sesta. Sesta! A 4 punti dal podio. Il filotto di vittorie consecutive è arrivato come manna dal cielo quest'anno, che ancora tutta da scrivere. \
 Complice l’impressionante prestazione del nonno *Berardi* ***Crivex*** sorride. E sorride. E sorride. Quanto può andare lontano questa squadra? Può davvero tornare ai fasti d'un tempo? 
 
+
 Migliore in campo: *Berardi* \
 Peggiore in campo: *Mario Urlo*
+
 
 ### A.C. URICAZZI 2 - 0 Mandrakata
 
@@ -76,7 +80,3 @@ Quindi che altro dire? Bentornato culo.
 
 Migliore in campo: *Culo* \
 Peggiore in campo: *Nessuno*
-
-
-
-
