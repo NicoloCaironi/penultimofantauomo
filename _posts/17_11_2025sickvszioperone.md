@@ -2,7 +2,7 @@
 title: "ATTACCO ALLA LIBERTÀ DI STAMPA???"
 excerpt: "Cosa sta succedendo alla redazione di PenultimoFantauomo."
 coverImage: "/assets/blog/blog_covers/Corruzione.jpg"
-date: "2025-11-17T012:15:07.322Z"
+date: "2025-11-17T12:15:07.322Z"
 author:
   name: Sick
   picture: "/assets/blog/authors/Sick.jpg"
