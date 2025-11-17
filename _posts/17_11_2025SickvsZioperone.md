@@ -7,7 +7,7 @@ author:
   name: Sick
   picture: "/assets/blog/authors/Sick.jpg"
 ogImage:
-  url: "public/assets/blog/blog_covers/Corruzione.jpg"
+  url: "/assets/blog/blog_covers/Corruzione.jpg"
 video: ""
 ---
 
