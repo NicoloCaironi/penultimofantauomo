@@ -2,7 +2,7 @@
 title: "INCREDIBILE: Ritrovata un'intervista di TeoKulo andata perduta"
 excerpt: "Un altro scandalo colpisce la redazione?"
 coverImage: "/assets/blog/blog_covers/zioperone_soldi.jpg"
-date: "2025-12-25T00:00:07.322Z"
+date: "2025-11-26T00:00:07.322Z"
 author:
   name: Stefano Carrello
   picture: "/assets/blog/authors/michael_scott.png"
