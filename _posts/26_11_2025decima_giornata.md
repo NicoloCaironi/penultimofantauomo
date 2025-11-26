@@ -2,7 +2,7 @@
 title: "Lo specchio della serie A"
 excerpt: "Una sola in cima. E non si capisce come possa essere lì. Cosa accomuna le due capoliste? Un portiere fenomenale."
 coverImage: "/assets/blog/blog_covers/decima_giornata.jpg"
-date: "2025-10-31T05:35:07.322Z"
+date: "2025-11-26T05:35:07.322Z"
 author:
   name: Zioperone
   picture: "/assets/blog/authors/zioperone.jpg"
