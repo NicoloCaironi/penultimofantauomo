@@ -24,6 +24,9 @@ export function Footer() {
             </a>
           </div>
         </div>
+        <div className="pb-6 text-center text-xs text-neutral-500 dark:text-neutral-400">
+          Via Frapolli 16, – PenultimoFantaUomo
+        </div>
       </Container>
     </footer>
   );
