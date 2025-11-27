@@ -18,7 +18,7 @@ La verità è che la vittoria mi piace, come piace a tutti d’altra parte, e no
 Mentre scrivo non riesco a non sognare un ritorno agli anni d’oro della nostra compagine, in cui si arrivava terzultimi, ad un passo dalla retrocessione, ma purtroppo, ciò non è più realtà. 
 Lascio quindi la Pizzeria in gestione a te, figlio mio, non trattarla come i tuoi amici, ti prego, risparmia sull’acido e sulla benzina. Per il resto lascio tutti i miei averi in buoni da spendere presso le farmacie di tutta Italia, validi solo a nome ZioPerone”.
 
-**Da**: Giovanni Urlo 
-**Data**: Domenica, 23 novembre 2025 alle ore 15:14
-**A**: Olindo <escortlover@pizzeriaurlo.it >
+**Da**: Giovanni Urlo \
+**Data**: Domenica, 23 novembre 2025 alle ore 15:14 \
+**A**: Olindo <escortlover@pizzeriaurlo.it > \
 **Oggetto**: Re: testamento papà
