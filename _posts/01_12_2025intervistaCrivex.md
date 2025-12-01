@@ -11,8 +11,6 @@ ogImage:
 video: "/assets/blog/video/intervista_crivex.mp4"
 ---
 
-# Conferenza stampa Mandrake
-
 Recentemente ho avuto il piacere di incontrare e intervistare l’allenatore più odiato e amato da questa redazione: ***Crivex***. \
 Un allenatore che è stato capace di non arrendersi di fronte alle difficoltà, che ha mantenuto la testa alta, che ci insegna che possono capitare momenti di sfortuna, ma il duro lavoro ripaga sempre. \
 Difficile trovare oggi un allenatore così. \
