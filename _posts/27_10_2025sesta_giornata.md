@@ -76,7 +76,7 @@ Tifosi sempre presenti. Che non lasciano mai questa squadra da sola.
 Migliore in campo: *Kean* \
 Peggiore in campo: *Pinamonti*
 
-### AC Riportino 2 - 1 Cenktus
+### AC Riportino 2 - 1 Cekntus
 
 Il pallone è una lampadina e la porta il suo interruttore. E le luci a **Brochicken Road**, lo stadio di ***AC Riportino***, non si sono mai spente e mai si spegneranno. \
 Classica porta inviolata, gol dal centrocampo e dall'attacco. Solidità e sicurezza. Questo trasmette ai suoi tifosi ***Andrea Corradini***.
@@ -84,7 +84,7 @@ Un terzo posto che non dà merito alla squadra di casa. E i tifosi iniziano a so
 Seguiremo con piacere l'evolversi di questa squadra e non vediamo l'ora di vedere dove ci puù portare. \
 E dall'altra parte chi c'è? \
 C'è un immagine riflessa identica, che però si riflette in uno specchio rotto, dove manca una parte. Piccola, marginale, ma essenziale al completamento del quadro. \
-***Cenktus*** fa porta inviolata, segna col centrocampo, con l'attacco, ma si scorda che si gioca in 11 e il danno è fatto. \
+***Cekntus*** fa porta inviolata, segna col centrocampo, con l'attacco, ma si scorda che si gioca in 11 e il danno è fatto. \
 Uno scivolone non da poco per ***Tom***, che poteva agguantare il pareggio ma si ritrova nella mischia dei 9 punti. \
 E' iniziato un ciclo perpetuo? Vittoria e poi sconfitta. Così sembra già segnato il percorso della squadra ospite e se così fosse saremmo pronti a gioire della sua vittoria la prossima giornata!
 

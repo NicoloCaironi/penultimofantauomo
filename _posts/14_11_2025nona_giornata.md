@@ -14,12 +14,12 @@ video: ""
 C’è un nuovo sceriffo in città. \
 O forse c’è sempre stato. Bentornato Culo!
 
-### Quaggelle 0 - 0 Cenktus
+### Quaggelle 0 - 0 Cekntus
 
 Serve avere 10 squadre in un campionato? \
 Se questi sono i risultati no. Due squadre che non stanno attraversando proprio un bel periodo. Due squadre che storicamente sono sempre state altalenanti, forse troppo. E quest’anno deve essere l’annata no. \
 È come se entrambe avessero assunto Juric come allenatore. \
-La ***Quaggelle FC*** non vede il campo avversario, come nella famosa scena di Fantozzi. La ***Cenktus*** invece sceglie proprio di rimanere a casa. \
+La ***Quaggelle FC*** non vede il campo avversario, come nella famosa scena di Fantozzi. La ***Cekntus*** invece sceglie proprio di rimanere a casa. \
 Uno 0-0 che spiega molte cose di queste due squadre ma apre anche tanti interrogativi. \
 Che senso ha fare il campionato in 10? Non è meglio forse farlo in 8 ma avere squadre più competitive? ***TeoKulo*** e ***Tom*** si sono divisi il biscotto per evitare zona retrocessione? Sono amici? Ma soprattutto: chi vince il premio di migliore in campo?
 

@@ -27,9 +27,9 @@ Cosa manca realmente a questa squadra? Il bonus difesa. Ma nonostante questo il 
 Migliore in campo: *Douvikas* \
 Peggiore in campo: *Camarda*
 
-### Cenktus 0 - 5 Mandrakata
+### Cekntus 0 - 5 Mandrakata
 
-***Cenktus*** è dilaniata dagli infortuni, e in campo si trova a schierare il porta borracce pur di giocare in 11 (ha giocato in 10). \
+***Cekntus*** è dilaniata dagli infortuni, e in campo si trova a schierare il porta borracce pur di giocare in 11 (ha giocato in 10). \
 Solo il fenomeno *N. Paz* poteva portare minacce concrete alla squadra avversaria, ma purtroppo non si è visto. La paura di finire come i suoi compagni a *Villa Stuart* lo ha portato a trattenere le giocate e a rimanere un pò in sordina. \
 Chissà come ***Tom*** gestirà questa situazione. Che modulo schiererà la prossima giornata? Farà degli scambi? Pregherà per la salute dei suoi?
 Forse dovremmo chiedere scusa a ***Mandrake*** e riconoscere la ***Mandrakata*** come squadra forte. \

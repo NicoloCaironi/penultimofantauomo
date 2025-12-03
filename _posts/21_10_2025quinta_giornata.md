@@ -16,9 +16,9 @@ video: ""
 0: i punti di ***Pizzeria Urlo*** \
 5: le squadre che non riescono a segnare
 
-### Cenktus 2 - 0 Milaneese
+### Cekntus 2 - 0 Milaneese
 
-***Cenktus*** rimette la chiesa al centro del villaggio. Si coccola la sua punta di diamante a chilometro zero e non poteva desiderare di meglio. \
+***Cekntus*** rimette la chiesa al centro del villaggio. Si coccola la sua punta di diamante a chilometro zero e non poteva desiderare di meglio. \
 *Paz N.* è forse il miglior giocatore di questo campionato? Classe 2004 che non rientra nella regola dell'under 21, ma che probabilmente non vedremmo comunque rimanere a lungo nel nostro campionato, convince sempre di più.
 Assieme al giovane pupillo solo un altro giocatore ***Tom*** ha sempre schierato, ed è *De Bruyne*. Due titolarissimi che rendono questo centrocampo stellare. \
 Dall'altra parte però è evidente segnalare le lacune difensive della squadra di casa. Due giocatori con cartellino giallo, *Bremer* infortunato, la scorsa giornata in 10. Il centrocampo è in grado di compensare a tutte queste mancanze? Il campo e le scelte dell'allenatore sapranno dircelo. \

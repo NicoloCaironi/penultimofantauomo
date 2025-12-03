@@ -51,10 +51,10 @@ Fra sfrutta l’effetto memoria a pesce rosso dei suoi difetti avversari e sfode
 
 Migliore in campo il già citato Calhanoglu, peggiore Weasley.
 
-### Cenktus 6 - 4 A.C. URICAZZI
+### Cekntus 6 - 4 A.C. URICAZZI
 
 Dulcis in fundus parliamo della partita dei gol. Quella che non ti spiegano sui libri di scuola, quella dei campetti dopo scuola, quella che ogni tifoso vorrebbe vedere.
-Cenktus schiera la migliore formazione possibile e schiaffeggia i giocatori dell’A.C. URICAZZI.
+Cekntus schiera la migliore formazione possibile e schiaffeggia i giocatori dell’A.C. URICAZZI.
 Ogni gol subito è un gol fatto più due per aver solo osato pensare di segnare.
 E così Tom può festeggiare assieme ai suoi giocatori. Ha dichiarato “oggi festeggiamo certo, ma da domani si torna a correre. Vincere non deve essere un evento, deve essere la normalità”. KDB, che era lì vicino, è sbiancato di fronte alle dichiarazioni del suo allenatore, tornando al suo colore originario.
 Inoriac da parte sua ha creato una squadra solida e consistente, ma non basta per portare a casa la vittoria. Sarà il nome dell’allenatore? 

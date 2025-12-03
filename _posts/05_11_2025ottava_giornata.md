@@ -15,9 +15,9 @@ La corazzata ***ExPat Bavaria*** è una cagata pazzesca? \
 La ***Pizzeria Urlo*** è destinata a qualcosa di grande? \
 Ma soprattutto, vediamo già i segnali di un ennesimo campionato segnato dalla fortuna?
 
-### Cenktus 1 - 1 SarryBall
+### Cekntus 1 - 1 SarryBall
 
-La ***Cenktus*** scende in campo come squadra, o almeno finalmente scende in campo in undici. \
+La ***Cekntus*** scende in campo come squadra, o almeno finalmente scende in campo in undici. \
 ***Tom*** schiera in difesa giocatori senza voto, e questa è una costante che più volte abbiamo visto fare a questo allenatore. Probabilmente un allenatore che ha studiato poco. \
 E quando la difesa è altalenante ci si aspetta che il centrocampo dia qualche certezza. Ma gli spettri di *Villa Stuart* gelano e frenano gli animi dei mediani. \
 L'unico che non si è fatto intimorire e la cui volontà di segnare non è stata castrata è *Castro*, che con un fantavoto di 13 punti porta la squadra di casa allo sperato e cercato gol. \

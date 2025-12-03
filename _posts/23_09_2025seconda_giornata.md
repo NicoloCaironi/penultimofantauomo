@@ -26,7 +26,7 @@ Peggiore in campo: (non c’è da stupirsi) *Koopmeiners*. \
 Migliore in campo: *Belotti* 
 
 
-### ExPat Bavaria 3 - 1 Cenktus
+### ExPat Bavaria 3 - 1 Cekntus
 
 C'è poco da dire di questa giornata. \
 Sembra che ***Fra*** abbia il centrocampo più forte del campionato. A ogni giornata uno dei fantastici quattro, a caso, fa doppietta. Questa giornata è toccato a *Pulisic*, che porta a passeggio la squadra avversaria. Un centrocampo che pesa 218 milioni. C'è chi dice troppi, c'è chi dice troppo pochi. L'allenatore dice solo "Qui si godeeeeese" quando *Diavolo Bevente* ha cercato di intervistarlo post partita. \

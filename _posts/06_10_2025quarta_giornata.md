@@ -45,14 +45,14 @@ Migliore in campo: *Soulè* \
 Peggiore in campo: *Zaniolo*
 
 
-### LukeAsses 4 - 0 Cenktus
+### LukeAsses 4 - 0 Cekntus
 La squadra ***LukeAsses*** viene esaltata dall'intervista di ***fra*** e dimostra quanto può essere temibile. \
 Quattro giocatori: quattro gol. \
 I bonus arrivano da ogni reparto. ***AllegriMaNonTroppo*** rende ogni squadra avversaria una groviera: 12 gol totali fin'ora e siamo certi non si fermerà qui. \
 La squadra, che spesso in questo giornale è stata criticata per mancanza di attaccanti, sta rispondendo non solo con le vittorie grazie agli altri reparti, ma proprio con il reparto offensivo stesso. *Borrelli*, pagato a 1, si sblocca e può essere una notevole arma in più in mano all'allenatore. \
 ***Tom*** ci sta facendo girare la testa. La giornata prima vince e convince, quella dopo non sembra che pesci pigliare. \
 Abbiamo paura a esprimere giudizi su questa squadra (già troppi ne sono stati detti nel pagellone di fine asta). Vorremmo solo non scender mai da questa giostra, che ci fa piangere e godere allo stesso tempo. \
-Chissà cosa si prova a tifare questa squadra. Ma d'altronde "***Cenktus*** non si discute, si ama". 
+Chissà cosa si prova a tifare questa squadra. Ma d'altronde "***Cekntus*** non si discute, si ama". 
 
 Migliore in campo: ***AllegriMaNonTroppo*** \
 Peggiore in campo: *Gosens*

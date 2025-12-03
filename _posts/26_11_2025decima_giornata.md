@@ -13,9 +13,9 @@ video: ""
 
 Se n’è andato. Ci ha lasciato. Ha già vinto il campionato. Cosa commentiamo a fare?
 
-### Cenktus 3 - 0 ExPatBavaria
+### Cekntus 3 - 0 ExPatBavaria
 
-La ***Cenktus*** torna a festeggiare di fronte ai suoi tifosi. La scorsa giornata aveva scelto di rimanere a casa e questa pausa per le nazionali gli ha ancora dato più tempo per prepararsi per questa sfida. \
+La ***Cekntus*** torna a festeggiare di fronte ai suoi tifosi. La scorsa giornata aveva scelto di rimanere a casa e questa pausa per le nazionali gli ha ancora dato più tempo per prepararsi per questa sfida. \
 ***Tom*** ha promesso brioches per tutti se non si arriva ultimi. Un obiettivo, possiamo dire discreto, che ha lasciato un pò interdetti i propri giocatori. Anche voi vorremmo delle brioches se l’obiettivo verrà raggiunto. Puoi spedirle al nostro indirizzo. \
 E il primo paragone con la serie A è servito: il Como stravince, e qui pure. \
 La storia è ciclica, si ripete: la corazzata bavarese si arresta sul Piave, e non riesce a sfondare. \

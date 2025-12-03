@@ -13,9 +13,9 @@ video: ""
 
 Tanti e pochi gol. Le categorie nel calcio esistono.
 
-### Cenktus 4 - 2 Pizzeria Urlo
+### Cekntus 4 - 2 Pizzeria Urlo
 
-***Cenktus*** dilaga e fa rimettere la testa a posto a ***Pizzeria Urlo***.
+***Cekntus*** dilaga e fa rimettere la testa a posto a ***Pizzeria Urlo***.
 Su quel ramo del lago di Como ogni partita porta bonus. Soprannominati i *Blue_Brothers*, dato che chi segna ha come colore della maglia tonalità di blu. \
 I tifosi cantano e saltano così tanto che è crollano pezzi di muro da San Siro. \
 Non si trova in prima posizione ma stando ai punti fatti, immeritatamente. ***Tom*** continua la sua striscia tattica, anche quest'anno crea una squadra solida e caparbia. Certo è facile vederlo vincere contro le piccole, vedremo se saprà cavarsela anche contro le big del campionato. \
