@@ -24,6 +24,9 @@ export function Footer() {
             </a>
           </div>
         </div>
+        <div className=" text-center">
+          IA free ma molta ironia. Tutto frutto di immaginazione da parte di amici che si vogliono prendere in giro.
+        </div>
         <div className="pb-6 text-center text-xs text-neutral-500 dark:text-neutral-400">
           Via Frapolli 16 – PenultimoFantaUomo
         </div>
