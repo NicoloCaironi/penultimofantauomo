@@ -23,7 +23,7 @@ Il coach dunque non ha colpe? Propendiamo per il no, ma deve dare una svegliata 
 Ma forse, e dico forse, e dico anche speriamo, il culo è finito: il pallone è rotondo André. \
 E che il pallone è un oggetto sferico e che deve essere messo in porta finalmente i giocatori della ***Mandrakata*** l’hanno capito e la squadra torna alla vittoria nonostante il temuto avversario. \
 Una prestazione corale orchestrata magnificamente da ***Mandrake***: 3 di modificatore, in gol un difensore, tutti gli attaccanti che portano bonus (e non è da tutti, bè forse lo è se giochi con un attaccante solo…). \
-E se la ***AC Riportino*** si trova due partite perse nel conteggio totale è solo merito di questa squadra qua, e oggi un nuovo slogan è stato scritto: “Il campionato non è ancora finito” (***Mandrake****, 15 Dicembre 2025, 22:45, Bergamo).
+E se la ***AC Riportino*** si trova due partite perse nel conteggio totale è solo merito di questa squadra qua, e oggi un nuovo slogan è stato scritto: “Il campionato non è ancora finito” (***Mandrake***, 15 Dicembre 2025, 22:45, Bergamo).
 
 Migliore in campo: *L’orchestra* \
 Peggiore in campo: *Le scelte sbagliate*
@@ -32,7 +32,7 @@ Peggiore in campo: *Le scelte sbagliate*
 
 La ***SarryBall*** si ritrova all’ennesimo risultato utile. Le critiche di questo giornale (siamo così potenti?) hanno risvegliato qualcosa nel cuore della squadra, dell’allenatore e dei tifosi.
 I giocatori stanno trovando continuità grazie alla ormai definitiva eliminazione dell’esubero di 147mln. Sono più uniti, sono più gruppo, e da ogni reparto arrivano i bonus che fanno sorridere tutti. \
-I tifosi stanno vedendo giocare la squadra come mai prima d’ora. E’ tornato il sold-out allo STADIO, ma soprattutto sono fuori dallo spauracchio della zona retrocessione. \
+I tifosi stanno vedendo giocare la squadra come mai prima d’ora. E’ tornato il sold-out all' **Arena del fumo lento**, ma soprattutto sono fuori dallo spauracchio della zona retrocessione. \
 ***Maurizio*** invece sappiamo che ha trovato l’amore. *GiornalistaASchienaDritta* ha scritto l’articolo solo per avvicinarsi e conoscerlo di persona, aveva segretamente una cotta per lui. E nonostante le aspre critiche ricevute l’amore è scoccato e in più occasioni sono stati paparazzati insieme. \
 Che sia questa la ragione per i ritrovati risultati utili?
 La ***ExPat Bavaria*** invece l’amore l’ha perso. Ha perso l’amore dei tifosi, ha perso l’amore di qualche giornalistucolo di sua fiducia, ma soprattutto ha perso l’amore per questo gioco. \
