@@ -34,7 +34,7 @@ La ***SarryBall*** si ritrova all’ennesimo risultato utile. Le critiche di que
 I giocatori stanno trovando continuità grazie alla ormai definitiva eliminazione dell’esubero di 147mln. Sono più uniti, sono più gruppo, e da ogni reparto arrivano i bonus che fanno sorridere tutti. \
 I tifosi stanno vedendo giocare la squadra come mai prima d’ora. E’ tornato il sold-out all' **Arena del fumo lento**, ma soprattutto sono fuori dallo spauracchio della zona retrocessione. \
 ***Maurizio*** invece sappiamo che ha trovato l’amore. *GiornalistaASchienaDritta* ha scritto l’articolo solo per avvicinarsi e conoscerlo di persona, aveva segretamente una cotta per lui. E nonostante le aspre critiche ricevute l’amore è scoccato e in più occasioni sono stati paparazzati insieme. \
-Che sia questa la ragione per i ritrovati risultati utili?
+Che sia questa la ragione per i ritrovati risultati utili? \
 La ***ExPat Bavaria*** invece l’amore l’ha perso. Ha perso l’amore dei tifosi, ha perso l’amore di qualche giornalistucolo di sua fiducia, ma soprattutto ha perso l’amore per questo gioco. \
 Ennesima sfiga per ***fra*** che si ritrova e dover lottare per il terzo posto nonostante sia per distacco primo per fantapunti. \
 Una partita storta dietro l’altra sta portando malumore in spogliatoio e l’allenatore non sa più a chi affidarsi. \
@@ -48,7 +48,7 @@ Peggiore in campo: *Zaccagni*
 Possiamo dire che la ***Cekntus*** è un mistero. \
 Ogni giornata neanche il più casuale lancio di dadi potrebbe determinare l’esito delle sue partite. \
 Uno strepitoso portiere e un’ottima difesa regalano 3 punti bonus di modificatore che fanno segnare il 2-0 per i padroni di casa sotto il boato dei tifosi. \
-Una costante dell’ultimo periodo sono però le mancate prestazioni di *Nico*. Che ci siano stati confronti interni? Che i software della squadra abbiano rilevato che il giocatore non è adatto alla squadra? \
+Una costante dell’ultimo periodo sono però le mancate prestazioni di *Nico*. Che ci siano stati confronti interni? Che i software della squadra abbiano rilevato che il giocatore non è adatto? \
 ***Tom*** a fine partita corre sempre da lui a rincuorarlo e a rassicurarlo, ma la situazione non sembra migliorare. Ci vuole una scossa a questo giocatore, e speriamo non siano sirene spagnole. \
 ***AllegriMaNonTroppo*** NON legge questo giornale. Oggi ne abbiamo la conferma definitiva. \
 Non si contano sulle dita di una mano le volte in cui ho consigliato a questa squadra di schierare un solo attaccante. E lui che fa? Ne schiera tre. \
