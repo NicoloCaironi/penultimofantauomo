@@ -79,7 +79,7 @@ Peggiore in campo: *Io che mi sono addormentato*
 ### Pizzeria Urlo 2 - 1 A.C. URICAZZI
 
 C’è silenzio in casa. Il corridoio luogo scelto come punto di incontro. Primo piano su sfidante uno. Primo piano su sfidante due. Il duello ha avuto inizio. \
-***Mario Urlo*** non teme avversari. Lui non teme nessuno. Quando sei già morto non hai più nulla da perdere. \
+***Mario The Scream*** non teme avversari. Lui non teme nessuno. Quando sei già morto non hai più nulla da perdere. \
 La ***Pizzeria Urlo*** trova i due gol grazie alla doppietta del suo più bel proiettile. *Scamacca* punisce due volte. E l’esito è scritto. \
 Sarebbe potuto uscire indenne da questa sfida se non fosse stato per il morso di serpente di *Kean*, che affonda i denti nelle tempie del suo allenatore, procurandogli non pochi pensieri.\
 ***Inoriac*** è troppo lento nei movimenti. Vorrebbe sparare subito, ma è occupato a cambiare munizioni. E anche se un colpo parte non è sufficiente a impensierire gli avversari. \

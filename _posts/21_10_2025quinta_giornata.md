@@ -80,7 +80,7 @@ La ***A.C. URICAZZI*** si schiera con l'ormai solito e consolidato 4-3-3 (modulo
 Constatiamo i meriti ma rimangono molte perplessita sui giocatori schierati. E qusto quello che questa squadra vuole insegnarci? Non basta più il singolo che trascina, è un gioco corale, dove tutti (nessuno inamovibile) devono fare la propria parte. \
 Vorremmo poter asssitere alle analisi post partita sui dati generati dal team della squadra di casa. \
 Cosa dire di ***Pizzeria Urlo***? Sembra che ci accaniamo. E non è così. Forse quesa squadra tre punti se li merita. Forse è il calendario che è girato male. Forse appena gli attaccanti si sbloccano. Forse questo, forse quello. \
-***Mario Urlo*** non aiuta in questo. Non rilascia alcuna dichiarazione, nè intervista, e si dice si faccia vedere sempre meno in pubblico. \
+***Mario The Scream*** non aiuta in questo. Non rilascia alcuna dichiarazione, nè intervista, e si dice si faccia vedere sempre meno in pubblico. \
 Lasciando così noi, e tutti i suoi tifosi a congetturare sul futuro di questa squadra. Che si trova ultima a pari punti, a 0 punti. \
 Come diceva sempre l'allenatore di ***FC Laboratorio***: "Per aspera ad astra"
 
