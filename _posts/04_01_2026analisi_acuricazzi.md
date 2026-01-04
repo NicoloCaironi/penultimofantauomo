@@ -37,10 +37,10 @@ Una sciagura. L'unico che ha dimostrato di valere è *Bonny*, che però non gioc
 ***Formazione migliore***:\
 4-3-3
 
-                    *Caprile*
+                    Caprile
 
-    *Baschirotto* - *Di Lorenzo* - *Norton-Cuffy* - *Lucumì*
+    Baschirotto - Di Lorenzo - Norton-Cuffy - Lucumì
 
-        *Odgaard* - *Isaksen* - *Ekkelenkamp*
+        Odgaard - Isaksen - Ekkelenkamp
 
-          *Pellegrino* - *Bonny* - *Thuram*
+          Pellegrino - Bonny - Thuram
