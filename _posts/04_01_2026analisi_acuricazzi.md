@@ -32,7 +32,7 @@ Una sciagura. L'unico che ha dimostrato di valere è *Bonny*, che però non gioc
 ***L'insostituibile***: *Di Lorenzo*\
 ***Nun te posso più vede'***: *Openda*\
 ***Il sottovalutato***: *Ekkelenkamp*\
-***Indice di bravuculura***: *0,72 (6°), qualunque cosa voglia dire*\
+***Indice di bravuculura***: *0,72 (6°), qualunque cosa voglia dire*
 
 ***Formazione migliore***:\
 4-3-3
