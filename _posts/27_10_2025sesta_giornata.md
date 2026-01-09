@@ -64,7 +64,7 @@ Peggiore in campo: *David*
 Vogliamo rispondere alla domanda proposta dal collega *Olindo*. \
 Si, questo è un fantallenatore. \
 Una certezza che con costanza ci ricorda che lui è qua solo per un motivo. Dimostrare che è il più forte perdendole tutte. \
-Un lavoro difficile per ***Mario Urlo*** (che non è detto che rimanga tutta la stagione), che però sta portando avanti con determinazione. \
+Un lavoro difficile per ***Mario The Scream*** (che non è detto che rimanga tutta la stagione), che però sta portando avanti con determinazione. \
 La sua punta di diamante, il suo "Chosen", si è risvegliato e sta segnando e convicendo. \
 Ma non basta quello. O forse si per l'obiettivo che ***Pizzeria Urlo*** sembra inseguire? \
 Ai posteri l'ardua sentenza. Di un modo di giocare a questo gioco fuori dal convenzionale. \

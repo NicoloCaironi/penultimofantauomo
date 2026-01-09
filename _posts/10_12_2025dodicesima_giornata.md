@@ -62,7 +62,7 @@ La Fenice ***Milaneese*** è morta. E lo ha fatto nel modo più plateale possibi
 ***Crivex*** quest'anno sta accontentando tutti. I suoi tifosi e i suoi hater, che vorrebbero per lui l'ultimo posto. Li fa godere, li fa rilassare, li fa gongolare per poi punirli e purgarli nel momento più opportuno. \
 La fenice ***Milaneese*** è morta. E da buona fenice risusciterà. \
 La ***Pizzeria Urlo*** manca per poco la vittoria. Un occasione sprecata di troppo, un passaggio sbagliato in più, un allenatore morto da settimane che non ha mai abbandonato il campo da gioco. \
-***Mario Urlo*** puzza come il pesce e chiunque cerca di stargli lontano, perché anche solo l'odore porta sventure. E così che la squadra, orfana di un allenatore vivente (non diciamo pensante perché su questo non eravamo certi neanche prima), si ritrova sbarellata a giocare contro fantasmi. Sia propri che altrui. \
+***Mario The Scream*** puzza come il pesce e chiunque cerca di stargli lontano, perché anche solo l'odore porta sventure. E così che la squadra, orfana di un allenatore vivente (non diciamo pensante perché su questo non eravamo certi neanche prima), si ritrova sbarellata a giocare contro fantasmi. Sia propri che altrui. \
 Una scena macabra che speriamo di non rivedere più. 
 
 Migliore in campo: *Scamacca* \

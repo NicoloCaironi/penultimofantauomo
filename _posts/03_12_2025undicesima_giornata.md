@@ -31,7 +31,7 @@ Peggiore in campo: *Soulè*
 ### Quaggelle FC 1 - 1 A.C. URICAZZI
 
 "l'ombra di *N'Dicka* si allontanava dal corridoio mentre ***TeoKulo***, con una lacrima sul viso, dava il suo addio alla ***Quaggelle FC***" \
-E' così che ci immaginiamo la fine di quest'anno per questa squadra. Con un addio in ritardo, ma almeno volontario. Perché o muori da eroe o vivi tanto a lungo da diventare ***Mario Urlo***. \
+E' così che ci immaginiamo la fine di quest'anno per questa squadra. Con un addio in ritardo, ma almeno volontario. Perché o muori da eroe o vivi tanto a lungo da diventare ***Mario The Scream***. \
 Però vorrei fare una considerazione. Questo allenatore è rinomato perché all'asta tira fuori dal cappello i giocatori più sconosciuti e particolari. Senza concludere mai nulla, ma aveva il rispetto di tutti, persino del pluricampione ***Andrea Corradini***. Mi chiedo oggi, dove sono tutti quegli under 21 della primavera del Torino? Dove è il giocatore arrivato quest'anno dalla serie B portoghese? Se guardo la formazione schierata vedo giocatori "standard", che se chiedi a ***AllegriMaNonTroppo*** li conosce pure lui. Dov'è finita l'arte? Dove è lo spirito innovativo che più ti contraddistingue? Ti sei disunito. Hai inseguito il mainstream e il pubblico, dimenticando la tua origine indie e provinciale. \
 Cosa dire della ***A.C. URICAZZI***? Questa squadra ha più culo che giocatori pagati il loro valore corretto. Una squadra che poteva essere costruita spendendo il 90% dei crediti in meno e performare uguale. \
 0 gol e un 66 raggiunto all'ultimo istante possibile. ***Inoriac*** lascia il campo come se avesse vinto il campionato. E noi ci stupiamo di come possa essere quarto a un punto dal podio. \
@@ -44,17 +44,17 @@ Peggiore in campo: *Asllani*
 
 ### Pizzeria Urlo 4 - 4 AC Riportino
 
-***Mario Urlo*** è morto. E prima di lasciarci ha deciso di farci un ultimo regalo: pareggiare. \
+***Mario The Scream*** è morto. E prima di lasciarci ha deciso di farci un ultimo regalo: pareggiare. \
 Un *Vardy* scatenato e un super *Maignan* portano sul palmo e sul guantone la ***Pizzeria Urlo***. \
 Rimane nascosto il solito *Kean* ma di questo oramai siamo stanchi di parlarne. \
 Sarà stato il suo vero lascito, sarà stata solamente una botta di culo ma 9 gol in due giornate non si spiegano. La metà dei gol fatti in tutto. Qualcosa che ci fa rimanere basiti. \
 Ma alla fine non stiamo assistendo a nulla di nuovo. L'ultima in classifica che rende difficile la vita alla capolista. La solita minestra, che ogni volta ci stupisce e ci fa innamorare ancora di più di questo gioco. \
-Grazie ***Mario Urlo***, e addio. \
+Grazie ***Mario The Scream***, e addio. \
 ***Andrea Corradini*** stava per compiere ancora la magia della scorsa giornata. Frenato da 0.5, sia per la purezza della formazione, sia per la vittoria. Sarebbe servito un *Vojvoda* in più, unlucky. \
 Facciamo notare però, anche se forse non è necessario, lo strepitoso attacco della ***AC Riportino***. Tre attaccanti: quattro gol. \
 Forse, forse, forse (e qui mi sbilancio), non è solo culo. \
 
-Migliore in campo: *Mario Urlo* \
+Migliore in campo: *Mario The Scream* \
 Peggiore in campo: *Heggem*
 
 

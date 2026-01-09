@@ -15,7 +15,7 @@ Anche quest’anno ricomincia la giornata, e già non manca di sorprese e belle 
 
 ### AC Riportino 2 - 1 Pizzeria Urlo
 
-AC Riportino, detentore del titolo, dopo un’asta non brillante in cui si è vista la sfacciatezza e la presunzione degna da chi sa di aver appena vinto, strappa una vittoria in casa grazie a un ottima fase difensiva, d'altronde forse l’unico reparto che si salva in quella squadra. A pagarne il prezzo è Pizzeria Urlo, società che ha subito un rebranding di immagine e mentalità dopo la deludente e fischiata passata stagione. La squadra ospite riesce comunque a segnare un gol che strappa un mezzo sorriso all’allenatore Mario Urlo, ma che mostra ancora lacune gestionali e tattiche. Ultime notizie dal campo informano anche che il loro bomber è ammalato e salterà la prossima.
+AC Riportino, detentore del titolo, dopo un’asta non brillante in cui si è vista la sfacciatezza e la presunzione degna da chi sa di aver appena vinto, strappa una vittoria in casa grazie a un ottima fase difensiva, d'altronde forse l’unico reparto che si salva in quella squadra. A pagarne il prezzo è Pizzeria Urlo, società che ha subito un rebranding di immagine e mentalità dopo la deludente e fischiata passata stagione. La squadra ospite riesce comunque a segnare un gol che strappa un mezzo sorriso all’allenatore Mario The Scream, ma che mostra ancora lacune gestionali e tattiche. Ultime notizie dal campo informano anche che il loro bomber è ammalato e salterà la prossima.
 
 Migliore in campo Scalvini, peggiore Koopmeiners
 
