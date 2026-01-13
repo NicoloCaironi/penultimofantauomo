@@ -32,7 +32,7 @@ Non posso prenotare una visita dal radiologo entro sei mesi per colpa della *Cek
 ***L'insostituibile***: *Nico Paz*\
 ***Nun te posso più vede'***: *Villa Stuart*\
 ***Il sottovalutato***: *Kelly*\
-***Indice di bravuculura***: *0,72 (7°), in linea con la posizione in classifica*\
+***Indice di bravuculura***: *0,72 (7°), in linea con la posizione in classifica*
 
 ***Formazione migliore***:\
 4-4-2
