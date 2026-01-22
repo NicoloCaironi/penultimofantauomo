@@ -1,13 +1,13 @@
 ---
 title: "Le tue deboli facoltà non possono competere col potere del Lato Oscuro della Forza!"
 excerpt: "L'analisi della Quaggelle FC"
-coverImage: "/assets/blog/blog_covers/analisi_pizzeriaurlo.jpg"
-date: "2026-01-19T12:15:07.322Z"
+coverImage: "/assets/blog/blog_covers/analisi_quaggellefc.jpg"
+date: "2026-01-22T12:15:07.322Z"
 author:
   name: Sick
   picture: "/assets/blog/authors/Sick.jpg"
 ogImage:
-  url: "/assets/blog/blog_covers/analisi_pizzeriaurlo.jpg"
+  url: "/assets/blog/blog_covers/analisi_quaggellefc.jpg"
 video: ""
 ---
 
