@@ -38,7 +38,7 @@ Abbiamo uno scoop su ***Inoriac***! \
 Non vogliamo fare giornalismo fuffa alla Corona, ma ci sono giunte voci che dicono che l’allenatore della ***A.C. URICAZZI*** non accetti la sua sessualità, e che stia lottando con tutto se stesso, indeciso se annunciarsi pubblicamente o no. \
 E per aiutarlo in questo, abbiamo deciso di farlo noi per lui. \
 ***Inoriac*** è datosessuale, e ha sposato sei mesi fa a Londra un xG scapolo che faceva il commesso in un negozio di footlocker.\
-Si dice che in questo periodo la coppia sia già in crisi, e supponiamo sia questo il motivo del periodo nero che questa fortissima squadra sta attraversando. \ 
+Si dice che in questo periodo la coppia sia già in crisi, e supponiamo sia questo il motivo del periodo nero che questa fortissima squadra sta attraversando. 
 
 
 ### Cekntus 2 - 0 Milaneese
