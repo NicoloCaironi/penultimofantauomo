@@ -25,7 +25,7 @@ Che tutta questa faccenda sia da monito per tutti!
 
 “Ciao ragazzi scusate, per caso avete visto in giro ***Mario The Scream***? Vorrei intervistarlo…” “Ma chi? Il Pep Guardiola cariatese? Il giovane Ancelotti? L’erede di De Zerbi? Si, lo abbiamo visto e siamo rimasti accecati da cotanta bellezza” \
 Penso che questo breve dialogo che ho avuto con due simpatici e belli (molto belli) ragazzi possa descrivere appieno il clima che si respira in quel della ***Pizzeria Urlo***. \
-Ufficialmente primi per Fantapunti, il futuro del fantacalcio italiano non accetta di restare all’ottavo posto. E se l’andazzo è quanto si è visto ultimamente chissà che non possa puntare direttamente al podio. \
+Ufficialmente primi per Fantapunti, il futuro del fantacalcio italiano non accetta di restare all’ottavo posto. E se l’andazzo è quanto si è visto ultimamente chissà che non possa puntare direttamente al podio. 
 
 
 ### A.C. URICAZZI 0 - 0 AC Riportino
