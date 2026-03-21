@@ -99,10 +99,10 @@ Non ci sono parole per descrivere lo scivolone a cui abbiamo assistito. \
 E non sappiamo come spiegarcelo. \
 “Per me si va ne la posizione dolente, \
 per me si va ne l'etterno dolore, \
-per me si va tra la perduta gente. \                          
+per me si va tra la perduta gente. \
 Giustizia mosse il mio alto fattore; \
 fecemi la divina podestate, \
-la somma sapienza e 'l primo fanta. \                         
+la somma sapienza e 'l primo fanta. \
 Dinanzi a me non fuor cose create \
 se non etterne, e io etterno duro. \
 Lascio ogne speranza, addio.”        
