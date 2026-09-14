@@ -15,11 +15,13 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        "accent-1": "#FAFAFA",
-        "accent-2": "#EAEAEA",
-        "accent-7": "#333",
-        success: "#0070f3",
-        cyan: "#79FFE1",
+        paper: "#efe6d2",
+        ink: "#1b1811",
+        ink2: "#3a3323",
+        ink3: "#4a4231",
+        muted: "#6d6248",
+        meta: "#7a6f56",
+        stamp: "#8c3b2c",
       },
       spacing: {
         28: "7rem",
@@ -32,6 +34,11 @@ const config: Config = {
         "6xl": "2.75rem",
         "7xl": "4.5rem",
         "8xl": "6.25rem",
+      },
+      fontFamily: {
+        serif: ["var(--font-serif)", "serif"],
+        sans: ["var(--font-sans)", "system-ui", "sans-serif"],
+        mono: ["var(--font-mono)", "monospace"],
       },
       boxShadow: {
         sm: "0 5px 10px rgba(0, 0, 0, 0.12)",

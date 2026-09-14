@@ -1,15 +1,17 @@
 import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import cn from "classnames";
-import { ThemeSwitcher } from "./_components/theme-switcher";
 import { Analytics } from "@vercel/analytics/next"
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
+import { Instrument_Serif, Libre_Franklin, IBM_Plex_Mono } from "next/font/google";
+
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const serif = Instrument_Serif({ subsets: ["latin"], weight: "400", style: ["normal","italic"], variable: "--font-serif" });
+const sans  = Libre_Franklin({ subsets: ["latin"], variable: "--font-sans" });
+const mono  = IBM_Plex_Mono({ subsets: ["latin"], weight: ["400","500","600"], variable: "--font-mono" });
 
 export const metadata: Metadata = {
   title: `Un sito di fantacalcio`,
@@ -56,14 +58,14 @@ export default function RootLayout({
           name="msapplication-config"
           content="/favicon/browserconfig.xml"
         />
-        <meta name="theme-color" content="#000" />
+        <meta name="theme-color" content="#efe6d2" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
-      > <Analytics />
-        <ThemeSwitcher />
+ className={`${serif.variable} ${sans.variable} ${mono.variable} font-sans bg-paper text-ink`}>
+       <Analytics />
         <SpeedInsights />
+        <div className="paper-vignette pointer-events-none fixed inset-0 z-50" aria-hidden="true" />
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
