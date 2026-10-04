@@ -39,8 +39,8 @@ Una squadra normale. Ma terza per media fantapunti a giornata. Schierata quasi s
 
                   Svilar
 
-  Vojvoda - Mancini - Gabbia - Heggem
+    Vojvoda - Mancini - Gabbia - Heggem
 
-   Guendouzi - McTominay - Saelemaekers
+     Guendouzi - McTominay - Saelemaekers
 
      Douvikas - Lautaro - Orban
