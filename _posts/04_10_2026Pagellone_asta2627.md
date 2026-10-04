@@ -4,10 +4,10 @@ excerpt: "Un nuovo inizio"
 coverImage: "public/assets/blog/blog_covers/tierlist.png"
 date: "2026-10-04T18:00:00"
 author:
-  name: Sick
-  picture: "/assets/blog/authors/Sick.jpg"
+name: Sick
+picture: "/assets/blog/authors/Sick.jpg"
 ogImage:
-  url: "public/assets/blog/blog_covers/tierlist.png"
+url: "public/assets/blog/blog_covers/tierlist.png"
 video: ""
 ---
 
