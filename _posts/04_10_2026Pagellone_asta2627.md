@@ -1,13 +1,13 @@
 ---
 title: "IL PAGELLONE DELL'ASTA 2026-2027"
 excerpt: "Un nuovo inizio"
-coverImage: "/assets/blog/blog_covers/tierlist.png"
+coverImage: "public/assets/blog/blog_covers/2026/tierlist.jpg"
 date: "2026-10-04T18:35:07.322Z"
 author:
   name: Sick
   picture: "/assets/blog/authors/Sick.jpg"
 ogImage:
-  url: "/assets/blog/blog_covers/tierlist.png"
+  url: "public/assets/blog/blog_covers/2026/tierlist.jpg"
 video: ""
 ---
 
