@@ -41,6 +41,6 @@ Non posso prenotare una visita dal radiologo entro sei mesi per colpa della *Cek
 
         Hien - Bremer - Kelly - Beukema
 
-  De Bruyne - Nico Paz - Perrone - Zalewski
+    De Bruyne - Nico Paz - Perrone - Zalewski
 
          Castro - Castellanos (RIP)
