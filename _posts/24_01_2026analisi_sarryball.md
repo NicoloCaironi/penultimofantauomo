@@ -37,11 +37,10 @@ Poco da dire, questa è una squadra sublime. Tanto magnifica quando orrida. E qu
 ***Formazione migliore***:\
 3-4-3
 
-<<<<<<< HEAD
                 Di Gregorio
 
           Ramon - Martin - Delprato
 
-  Gaetano - Mandragora - Vlasic - Vandeputte
+    Gaetano - Mandragora - Vlasic - Vandeputte
 
          Davis - Esposito - Giovane
