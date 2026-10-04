@@ -39,7 +39,7 @@ Una sciagura. L'unico che ha dimostrato di valere è *Bonny*, che però non gioc
 
                     Caprile
 
-  Baschirotto - Di Lorenzo - Norton-Cuffy - Lucumì
+    Baschirotto - Di Lorenzo - Norton-Cuffy - Lucumì
 
         Odgaard - Isaksen - Ekkelenkamp
 
