@@ -44,13 +44,13 @@ Peggiore in campo: *David*
 
 La sfida delle ultime, eppure non la peggior partita di giornata. \
 La ***Pizzeria Urlo*** si trova senza “bomber” (quanti gol ha fatto?), e fatica a trovare il gol. \
-Un inesorabile e instancabile *Pellegrini* sembra poter ridare speranza alla squadra, ma poi si guarda intorno, osserva i suoi compagni, guarda ***Mario Urlo*** e capisce che il loro destino è segnato. Che quel 10 lo hanno stampato addosso e solo un miracolo potrebbe scucirlo via. \
+Un inesorabile e instancabile *Pellegrini* sembra poter ridare speranza alla squadra, ma poi si guarda intorno, osserva i suoi compagni, guarda ***Mario The Scream*** e capisce che il loro destino è segnato. Che quel 10 lo hanno stampato addosso e solo un miracolo potrebbe scucirlo via. \
 La ***Milaneese*** fa un balzo in avanti, da record di salto in lungo e si ritrova sesta. Sesta! A 4 punti dal podio. Il filotto di vittorie consecutive è arrivato come manna dal cielo quest'anno, che ancora tutta da scrivere. \
 Complice l’impressionante prestazione del nonno *Berardi* ***Crivex*** sorride. E sorride. E sorride. Quanto può andare lontano questa squadra? Può davvero tornare ai fasti d'un tempo? 
 
 
 Migliore in campo: *Berardi* \
-Peggiore in campo: *Mario Urlo*
+Peggiore in campo: *Mario The Scream*
 
 
 ### A.C. URICAZZI 2 - 0 Mandrakata

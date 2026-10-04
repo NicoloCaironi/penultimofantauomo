@@ -74,7 +74,7 @@ Peggiore in campo: *Gudmundsson*
 
 ### Pizzeria Urlo 1 - 4 Quaggelle FC
 Aggiorniamo subito la statistica: *Kean* una sufficienza su 6 partite. \
-***Mario Urlo*** ci ha confessato che ha comprato e casa ascolta il suo album per rilassarsi, forse per questo che finalmente vediamo un gol dal suo bomber. \
+***Mario The Scream*** ci ha confessato che ha comprato e casa ascolta il suo album per rilassarsi, forse per questo che finalmente vediamo un gol dal suo bomber. \
 Detto questo, la squadra rimane la solita. Prova ma non riesce. Un gol non basta e ***Pizzeria Urlo*** incassa l'ennesima sconfitta. \
 L'altra unica squadra a 0 punti. \
 L'allenatore non ha rilasciato commenti, è stato visto però tirare pugni a un muro per sfogarsi. \

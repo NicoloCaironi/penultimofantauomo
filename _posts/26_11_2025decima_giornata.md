@@ -50,7 +50,7 @@ Abbiamo assistito a una partita davvero inusuale per queste due squadre. Record 
 E la ***SarryBall*** ci stupisce ulteriormente con la formazione schierata. Perché? Perché non vediamo l’esubero, il pozzo senza fine, mr. 160 milioni spesi. Ha litigato con l’allenatore? Ha deciso di migrare in altri lidi? Ne sappiamo ancora poco, ma state certi che approfondiremo. \
 La ***Pizzeria Urlo*** avrebbe potuto vincere contro chiunque. Ha deciso di sputare sul bagnato e infierire sulla squadra diretta avversaria per l'ultimo posto. \
 La squadra segna meno, fa più parate. E questa è la costante che fa la differenza. Un modificatore di difesa di 3 punti è un gol a porta vuota, che letteralmente porta alla vittoria la squadra. \
-Tutto bello, tutti bravi, ma abbiamo visto ***Mario Urlo*** lasciare il campo molto corrucciato. Abbiamo mandato *Olindo* a fare un esclusiva per noi. Uscirà a breve il suo articolo.
+Tutto bello, tutti bravi, ma abbiamo visto ***Mario The Scream*** lasciare il campo molto corrucciato. Abbiamo mandato *Olindo* a fare un esclusiva per noi. Uscirà a breve il suo articolo.
 
 Migliore in campo: *Maignan* \
 Peggiore in campo: *Di Gregorio*

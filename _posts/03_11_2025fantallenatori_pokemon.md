@@ -41,9 +41,9 @@ I colori principali di ***Ho-oh*** sono il giallo e il rosso. È ispirato a una 
 ![Trubbish](/assets/blog/TelChi/Trubbish.png)\
 Si commenta da solo.
 
-### Mario Urlo - Smeargle
+### Mario The Scream - Smeargle
 ![Smeargle](/assets/blog/TelChi/Smeargle.jpg)\
-È un artista, non solo un fantallenatore. Può imparare solo la mossa ***Schizzo***, che gli permette di copiare una mossa dell'avversario. Ha sempre voluto lasciare l'iniziativa agli avversari perché a lui della competizione non importa, lui vuole divertire. Peccato che contro la ***Sarryball*** abbia usato una mossa superefficace su ***Maurizio***, copiata precedentemente. La sua opera d'arte, il suo capolavoro degli zero punti è andato rovinato. Ma si sa, nessuna opera d'arte è perfetta. Così come ci insegna l'arte, ***Mario Urlo*** un giorno ci insegnerà cos'è il calcio.
+È un artista, non solo un fantallenatore. Può imparare solo la mossa ***Schizzo***, che gli permette di copiare una mossa dell'avversario. Ha sempre voluto lasciare l'iniziativa agli avversari perché a lui della competizione non importa, lui vuole divertire. Peccato che contro la ***Sarryball*** abbia usato una mossa superefficace su ***Maurizio***, copiata precedentemente. La sua opera d'arte, il suo capolavoro degli zero punti è andato rovinato. Ma si sa, nessuna opera d'arte è perfetta. Così come ci insegna l'arte, ***Mario The Scream*** un giorno ci insegnerà cos'è il calcio.
 
 ### TeoKulo - Matiére in Leggende Pokémon ZA
 ![Matiere](/assets/blog/TelChi/Matiere.jpg)\

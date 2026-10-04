@@ -67,7 +67,7 @@ Forse ora lo ha capito dato che uno dei due si è infortunato. \
 In questa partita poco cambiava qualsiasi formazione e giocatore schierato. La ***LukeAsses*** non è proprio scesa in campo. Nessun giocatore sopra la sufficienza è lo specchio di quanto visto, e il secondo posto è scivolato via. \
 Troppa pressione? Troppo entusiasmo? Seconda migliore squadra per fantapunti e per gol fatti. Siamo certi saprà risollevarsi. \
 C'è una rivoluzione in atto in casa ***Pizzeria Urlo***. La vittoria è arrivata, ma i giocatori lasciati in panca hanno fatto molto meglio di quelli schierati in campo. \
-Un segnale chiaro per ***Mario Urlo***, che si ritrova con due vittorie di fila e una squadra che, dopo le numerose sconfitte iniziali, è difficile da domare. \
+Un segnale chiaro per ***Mario The Scream***, che si ritrova con due vittorie di fila e una squadra che, dopo le numerose sconfitte iniziali, è difficile da domare. \
 Non sappiamo come l'allenatore potrà indirizzare il gruppo, ma possiamo dire che il potenziale c'è per andarsene dall'ultimo posto. La domanda però che vi poniamo, cari lettori è questa: Questa squadra, si merita davvero di non stare in fondo alla classifica?
 
 Migliore in campo: *Maignan* \
